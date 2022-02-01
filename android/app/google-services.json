@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "409237204265",
+    "project_id": "stallet-fb242",
+    "storage_bucket": "stallet-fb242.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:409237204265:android:1ef4893927ec0d16a9db38",
+        "android_client_info": {
+          "package_name": "com.scissorware.stallet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "409237204265-h6jf0qgs9sksonb8c7suau84ni645reg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.scissorware.stallet",
+            "certificate_hash": "f82848f1451ba9782a196be9fb1cf4fe4bb2eed6"
+          }
+        },
+        {
+          "client_id": "409237204265-s39bgkkkhfr3io5u99jbc92tiupbvq8t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4siybsWr28dT0fyhbC-4KCBz061GqmEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "409237204265-s39bgkkkhfr3io5u99jbc92tiupbvq8t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
